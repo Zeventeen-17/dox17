@@ -1,5 +1,5 @@
 zeventeen
-#### Dox17 
+# Dox17 
 ## Script para doxear solo con numero telefonico y elimnar todo los datos de la victima.👻
 ![](https://github.com/Zeventeen-17/Zeventeen-17/blob/main/17kz.gif)
 #### Espero te sirvan mis herramientas y me consultes cualquier otra necesidad que tengas.💭 
