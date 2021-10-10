@@ -18,7 +18,5 @@ zeventeen
 #### cd dox17.py
 
 #### python3 dox17.py
-***Puedes buscar mi ayuda a traves de WhatsApp! 🌚***
-
 ### ***Donation BTC💰***
 ![BTC](https://github.com/Zeventeen-17/Zeventeen-17/blob/main/Screenshot_20210221_182629.jpg) 
